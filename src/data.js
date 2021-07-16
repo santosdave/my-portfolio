@@ -3,7 +3,7 @@ export const projects = [
     title: "Twitter Clone",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Available soon",
     image: "./project-1.gif",
     link: "https://github.com/santosdave",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Amazon Clone",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Available soon",
     image: "./project-2.gif",
     link: "https://github.com/santosdave",
   },
@@ -19,15 +19,15 @@ export const projects = [
     title: "Baze",
     subtitle: "React and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Available soon",
     image: "./project-3.gif",
     link: "https://github.com/santosdave/baze-1",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "ToolKit App",
+    subtitle: "React Hooks and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Available soon",
     image: "./project-4.gif",
     link: "https://github.com/santosdave",
   },
@@ -36,17 +36,17 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      "I have worked with him to complete a manufacturing software which was developed in time for production.",
+    image: "https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM",
+    name: "Santos Dave",
+    company: "ABC",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "He has shown commitment, innovation and creativity in every task my organization has assigned him.",
+    image: "https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM",
+    name: "Dave Santos",
+    company: "I-Plant",
   },
 ];
 
