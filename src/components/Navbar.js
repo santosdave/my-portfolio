@@ -1,10 +1,15 @@
 import React from 'react';
 import { ArrowRightIcon } from "@heroicons/react/solid";
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub';
+import {Button} from "@material-ui/core";
 
 function Navbar() {
     return (
-        <header className="bg-gray-800 md:sticky top-0 z-10">
+        <header className="bg-gray-800 md:sticky top-0 z-10 ">
+         
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+      
         <a className="title-font font-medium text-white mb-4 md:mb-0">
           <a href="#about" className="ml-3 text-xl">
             Wycliffe Odhiambo
@@ -21,12 +26,31 @@ function Navbar() {
             Testimonials
           </a>
         </nav>
+        <div className="md:mr-auto md:ml-4 md:mt-5 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex  items-center  justify-between">
+          
+          <a href="https://github.com/santosdave" className="mr-5 hover:bg-gray-700 py-1 px-7">
+             <GitHubIcon className=" text-blue-700 w-10 h-10"/>
+          </a>
+          <a href="https://www.linkedin.com/in/wycliffe-o-90563b1b8" className="mr-5 hover:bg-gray-700 ">
+             <LinkedInIcon className="w-10 h-10 ml-1 text-blue-700 "/>
+          </a>
+          
+          
+        </div>
         <a
           href="#contact"
-          className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          className="inline-flex items-center bg-gray-800 border-0 py-1 px-7 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Hire Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
         </a>
+        <div className="md:mt-0">
+                <img
+                    className="object-cover object-center rounded"
+                    alt="hero"
+                    src="https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM"
+                />
+        </div>
+        
       </div>
     </header>
     )
