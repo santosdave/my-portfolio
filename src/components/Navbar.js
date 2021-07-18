@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRightIcon } from "@heroicons/react/solid";
 /* import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub'; */
-import {Button} from "@material-ui/core";
+
 
 function Navbar() {
     return (
