@@ -1,7 +1,7 @@
 import React from 'react';
 import { ArrowRightIcon } from "@heroicons/react/solid";
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import GitHubIcon from '@material-ui/icons/GitHub';
+/* import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import GitHubIcon from '@material-ui/icons/GitHub'; */
 import {Button} from "@material-ui/core";
 
 function Navbar() {
@@ -28,12 +28,12 @@ function Navbar() {
         </nav>
         <div className="flex  items-center  justify-between mt-7 md:mr-auto md:ml-4 md:mt-0 md:py-1 md:pl-4 md:border-l md:border-gray-700	">
           
-          <a href="https://github.com/santosdave" className="mr-5 hover:w-10 ">
+          {/* <a href="https://github.com/santosdave" className="mr-5 hover:w-10 ">
              <GitHubIcon className=" text-blue-700 w-10 h-10"/>
           </a>
           <a href="https://www.linkedin.com/in/wycliffe-o-90563b1b8" className="mr-5 hover:bg-gray-700 ">
              <LinkedInIcon className="w-10 h-10  text-blue-700 "/>
-          </a>
+          </a> */}
           
           
         </div>
