@@ -32,6 +32,14 @@ export const projects = [
     link: "https://github.com/santosdave/google-docs",
   },
   {
+    title: "Pivot Table Implementation",
+    subtitle: "React,React Hooks and Firebase",
+    description:
+      "Available soon",
+    image: "./pivottable.jpg",
+    link: "https://wycliffepivottable.netlify.app/",
+  },
+  {
     title: "ToolKit App",
     subtitle: "React Hooks and Firebase",
     description:
