@@ -3,9 +3,9 @@ export const projects = [
     title: "Twitter Clone",
     subtitle: "React and Firebase",
     description:
-      "Available soon",
+      "Available",
     image: "./project-1.gif",
-    link: "https://github.com/santosdave",
+    link: "https://wycliffetwitterclone.netlify.app",
   },
   {
     title: "Amazon Clone",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Available soon",
     image: "./project-2.gif",
-    link: "https://github.com/santosdave",
+    link: "https://github.com/santosdave/amazon-clone/tree/master/amazon-clone",
   },
   {
     title: "Baze",
@@ -24,12 +24,20 @@ export const projects = [
     link: "https://github.com/santosdave/baze-1",
   },
   {
+    title: "Google Docs clone",
+    subtitle: "React and Firebase",
+    description:
+      "Available soon",
+    image: "./project-3.gif",
+    link: "https://github.com/santosdave/google-docs",
+  },
+  {
     title: "ToolKit App",
     subtitle: "React Hooks and Firebase",
     description:
       "Available soon",
     image: "./project-4.gif",
-    link: "https://github.com/santosdave",
+    link: "https://github.com/santosdave/birthday-reminder",
   },
 ];
 
@@ -60,4 +68,5 @@ export const skills = [
   "Php",
   "Python",
   "Mysql",
+  "Typescript",
 ];
