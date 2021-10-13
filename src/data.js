@@ -53,14 +53,14 @@ export const testimonials = [
   {
     quote:
       "I have worked with him to complete a manufacturing software which was developed in time for production.",
-    image: "https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM",
+    image: "https://media-exp1.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1639612800&v=beta&t=PBjMgGrr1FQv699FfB43brtYocKNg1MG_90xLyI05us",
     name: "Santos Dave",
     company: "ABC",
   },
   {
     quote:
       "He has shown commitment, innovation and creativity in every task my organization has assigned him.",
-    image: "https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM",
+    image: "https://media-exp1.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1639612800&v=beta&t=PBjMgGrr1FQv699FfB43brtYocKNg1MG_90xLyI05us",
     name: "Dave Santos",
     company: "I-Plant",
   },

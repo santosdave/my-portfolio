@@ -47,7 +47,7 @@ function Navbar() {
                 <img
                     className="object-cover object-center rounded-full"
                     alt="hero"
-                    src="https://media-exp3.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1631750400&v=beta&t=Aho6tF2m9yCbzpnLm5BH3jtRatd00MObAlR4m9QpQDM"
+                    src="https://media-exp1.licdn.com/dms/image/C4D03AQFaYwtIZ5k53g/profile-displayphoto-shrink_100_100/0/1622195469007?e=1639612800&v=beta&t=PBjMgGrr1FQv699FfB43brtYocKNg1MG_90xLyI05us"
                 />
         </div>
         
