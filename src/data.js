@@ -1,12 +1,12 @@
 export const projects = [
-  {
+  /* {
     title: "Twitter Clone",
     subtitle: "React and Firebase",
     description:
       "Available",
     image: "./project-1.gif",
     link: "https://wycliffetwitterclone.netlify.app",
-  },
+  }, */
   {
     title: "Amazon Clone",
     subtitle: "React and Firebase",
@@ -35,7 +35,7 @@ export const projects = [
     title: "Pivot Table Implementation",
     subtitle: "React,React Hooks and Firebase",
     description:
-      "Available soon",
+      "Available",
     image: "./pivottable.jpg",
     link: "https://wycliffepivottable.netlify.app/",
   },
