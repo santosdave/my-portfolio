@@ -11,26 +11,26 @@ export const projects = [
     title: "Amazon Clone",
     subtitle: "React and Firebase",
     description:
-      "Available soon",
-    image: "./project-2.gif",
-    link: "https://github.com/santosdave/amazon-clone/tree/master/amazon-clone",
+      "Available",
+    image: "./WycliffeKeyboard.png",
+    link: "https://wycliffekeyboard.netlify.app/",
   },
-  {
+  /* {
     title: "Baze",
     subtitle: "React and Firebase",
     description:
       "Available soon",
     image: "./project-3.gif",
     link: "https://github.com/santosdave/baze-1",
-  },
-  {
+  }, */
+  /* {
     title: "Google Docs clone",
     subtitle: "React and Firebase",
     description:
       "Available soon",
     image: "./project-3.gif",
     link: "https://github.com/santosdave/google-docs",
-  },
+  }, */
   {
     title: "Pivot Table Implementation",
     subtitle: "React,React Hooks and Firebase",
@@ -39,14 +39,14 @@ export const projects = [
     image: "./pivottable.jpg",
     link: "https://wycliffepivottable.netlify.app/",
   },
-  {
+  /* {
     title: "ToolKit App",
     subtitle: "React Hooks and Firebase",
     description:
       "Available soon",
     image: "./project-4.gif",
     link: "https://github.com/santosdave/birthday-reminder",
-  },
+  }, */
 ];
 
 export const testimonials = [
