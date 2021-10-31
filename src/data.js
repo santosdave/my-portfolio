@@ -8,21 +8,21 @@ export const projects = [
     link: "https://wycliffetwitterclone.netlify.app",
   }, */
   {
-    title: "Amazon Clone",
-    subtitle: "React and Firebase",
+    title: "Virtual Keyboard",
+    subtitle: "Html and JavaScript",
     description:
       "Available",
     image: "./WycliffeKeyboard.png",
     link: "https://wycliffekeyboard.netlify.app/",
   },
-  /* {
-    title: "Baze",
-    subtitle: "React and Firebase",
+  {
+    title: "News App",
+    subtitle: "React, NYC API and Tailwindcss",
     description:
       "Available soon",
-    image: "./project-3.gif",
-    link: "https://github.com/santosdave/baze-1",
-  }, */
+    image: "./newsapp.png",
+    link: "https://santosdave.github.io/news-letu-app/",
+  },
   /* {
     title: "Google Docs clone",
     subtitle: "React and Firebase",
